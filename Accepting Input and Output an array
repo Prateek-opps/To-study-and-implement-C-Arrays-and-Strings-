@@ -1,3 +1,8 @@
+EXPERIMENT - 6
+Prateek Sinha
+24070123077
+ENTC A3
+
 #include <iostream>
 using namespace std; 
 int main() {
@@ -12,3 +17,27 @@ int main() {
     }
     return 0;
 }
+/*Output:-
+Enter 10 numbers:
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+You entered:
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+*/
