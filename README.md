@@ -22,6 +22,7 @@ This program reads 10 integers from the user and displays them. It demonstrates 
 
 ### Output
 Enter 10 numbers: 1 2 3 4 5 6 7 8 9 10 
+
 You entered: 1 2 3 4 5 6 7 8 9 10
 
 ### Conclusion
@@ -44,7 +45,13 @@ This program calculates the sum, average, maximum, and minimum of 6 integers ent
 ### Output
 Enter 6 numbers: 1 2 3 4 5 6
 
-Array elements: 1 2 3 4 5 6 Sum: 21 Average: 3.5 Max: 6 Min: 1
+Array elements: 1 2 3 4 5 6 
+
+Sum: 21 
+
+Average: 3.5 
+
+Max: 6 Min: 1
 
 ### Conclusion
 This program demonstrates how to perform basic statistical operations on array data using loops and conditionals.
@@ -63,7 +70,17 @@ This program reverses the order of elements in an array. It uses a two-pointer a
 4. Display the reversed array.
 
 ### Output
-Enter total count: 4 Element 1: 56 Element 2: 87 Element 3: 32 Element 4: 56 Reversed array: 56 32 87 56
+Enter total count: 4 
+
+Element 1: 56 
+
+Element 2: 87 
+
+Element 3: 32 
+
+Element 4: 56
+
+Reversed array: 56 32 87 56
 
 ### Conclusion
 This program illustrates how to reverse an array in-place using a simple swapping technique.
@@ -82,7 +99,9 @@ This program performs a linear search to find a specific value in a predefined a
 4. If found, display the index; otherwise, report not found.
 
 ### Output
-nter the number you want to search for: 6 Key found at location: 6
+nter the number you want to search for: 6 
+
+Key found at location: 6
 
 ### Conclusion
 Linear search is a straightforward method for finding elements in an unsorted array. This program demonstrates its implementation.
@@ -102,7 +121,11 @@ This program attempts to calculate the sum and average of 6 integers but contain
 5. Display `sum` and `average`.
 
 ### Output
-The numbers of array are: 1 2 3 4 5 6 1 2 3 4 5 6 The sum of elements of array are: 21 The average of elements of array are: 0
+The numbers of array are: 1 2 3 4 5 6 1 2 3 4 5 6 
+
+The sum of elements of array are: 21 
+
+The average of elements of array are: 0
 
 ### Conclusion
 This program highlights the importance of initializing variables and computing dependent values in the correct order. The average is incorrectly calculated due to premature evaluation.
