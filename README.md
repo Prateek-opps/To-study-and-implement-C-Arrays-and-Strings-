@@ -151,6 +151,7 @@ A palindrome is a word, phrase, number, or sequence that reads the same backward
 ### Output
 
 Enter a string: b
+
 The string is a palindrome
 
 ### Conclusion
@@ -171,6 +172,7 @@ String concatenation is the operation of joining character strings end-to-end. T
 ### Output
 
 Enter first name: Prateek Sinha
+
 Enter last name: Full name : Prateek Sinha
 
 ### Conclusion
@@ -190,6 +192,7 @@ Reading and displaying strings is a basic operation in any programming language.
 ### Output
 
 Enter a Name: Prateek
+
 You entered: Prateek
 
 ### Conclusion
@@ -210,6 +213,7 @@ String reversal is a basic manipulation operation where the characters of the st
 ### Sample Output
 
 enter the string 1= Prateek
+
 keetarP
 
 ### Conclusion
