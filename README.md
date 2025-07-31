@@ -131,6 +131,92 @@ The average of elements of array are: 0
 This program highlights the importance of initializing variables and computing dependent values in the correct order. The average is incorrectly calculated due to premature evaluation.
 
 ---
+# String Operations in C++
+
+This document describes multiple C++ programs that demonstrate various operations on strings, including input/output, reversing a string, checking for a palindrome, and concatenating names.
+
+---
+
+## 1. Palindrome Check
+
+### Theory
+A palindrome is a word, phrase, number, or sequence that reads the same backward as forward. This program takes a string input from the user and checks whether it is a palindrome.
+
+### Algorithm
+1. Read a string from the user.
+2. Reverse the string using a loop.
+3. Compare the reversed string with the original.
+4. Display whether the string is a palindrome.
+
+### Code Summary
+The string is reversed using a loop that iterates from the last character to the first. The reversed string is then compared to the original to determine if it's a palindrome.
+
+### Sample Output
+
+### Conclusion
+This program successfully checks whether a given string is a palindrome using basic string manipulation techniques.
+
+---
+
+## 2. Concatenate First and Last Name
+
+### Theory
+String concatenation is the operation of joining character strings end-to-end. This program reads a first name and a last name from the user and combines them into a full name.
+
+### Algorithm
+1. Read first name and last name.
+2. Concatenate them using the `+` operator.
+3. Display the full name.
+
+### Code Summary
+A space is added between the first and last name during concatenation for proper formatting.
+
+### Sample Output
+
+### Conclusion
+This program demonstrates how to use string concatenation in C++ to combine two separate inputs into a meaningful full name.
+
+---
+
+## 3. Display User Input String
+
+### Theory
+Reading and displaying strings is a basic operation in any programming language. This program takes a string input and displays it.
+
+### Algorithm
+1. Read a word (string) from the user.
+2. Display the word.
+
+### Code Summary
+The program uses `cin` for input and `cout` for output.
+
+### Sample Output
+
+### Conclusion
+This program demonstrates a simple input/output operation using C++ strings.
+
+---
+
+## 4. Reverse a String
+
+### Theory
+String reversal is a basic manipulation operation where the characters of the string are rearranged from end to start.
+
+### Algorithm
+1. Read a string from the user.
+2. Use a loop to reverse the string.
+3. Display the reversed string.
+
+### Code Summary
+The program uses a for-loop from the end of the string to the beginning and appends characters one by one to a new string.
+
+### Sample Output
+
+### Conclusion
+This program shows how to reverse a string manually using loops in C++.
+
+---
+
 
 ## Final Remarks
 
