@@ -148,17 +148,17 @@ A palindrome is a word, phrase, number, or sequence that reads the same backward
 3. Compare the reversed string with the original.
 4. Display whether the string is a palindrome.
 
-### Code Summary
-The string is reversed using a loop that iterates from the last character to the first. The reversed string is then compared to the original to determine if it's a palindrome.
+### Output
 
-### Sample Output
+Enter a string: b
+The string is a palindrome
 
 ### Conclusion
 This program successfully checks whether a given string is a palindrome using basic string manipulation techniques.
 
 ---
 
-## 2. Concatenate First and Last Name
+## 2. Concatenation of String
 
 ### Theory
 String concatenation is the operation of joining character strings end-to-end. This program reads a first name and a last name from the user and combines them into a full name.
@@ -168,10 +168,10 @@ String concatenation is the operation of joining character strings end-to-end. T
 2. Concatenate them using the `+` operator.
 3. Display the full name.
 
-### Code Summary
-A space is added between the first and last name during concatenation for proper formatting.
+### Output
 
-### Sample Output
+Enter first name: Prateek Sinha
+Enter last name: Full name : Prateek Sinha
 
 ### Conclusion
 This program demonstrates how to use string concatenation in C++ to combine two separate inputs into a meaningful full name.
@@ -187,10 +187,10 @@ Reading and displaying strings is a basic operation in any programming language.
 1. Read a word (string) from the user.
 2. Display the word.
 
-### Code Summary
-The program uses `cin` for input and `cout` for output.
+### Output
 
-### Sample Output
+Enter a Name: Prateek
+You entered: Prateek
 
 ### Conclusion
 This program demonstrates a simple input/output operation using C++ strings.
@@ -207,17 +207,12 @@ String reversal is a basic manipulation operation where the characters of the st
 2. Use a loop to reverse the string.
 3. Display the reversed string.
 
-### Code Summary
-The program uses a for-loop from the end of the string to the beginning and appends characters one by one to a new string.
-
 ### Sample Output
+
+enter the string 1= Prateek
+keetarP
 
 ### Conclusion
 This program shows how to reverse a string manually using loops in C++.
 
 ---
-
-
-## Final Remarks
-
-These programs collectively demonstrate fundamental array operations in C++. They serve as a practical introduction to handling collections of data, performing computations, and implementing basic algorithms. Proper initialization and logical sequencing are crucial for accurate results.
