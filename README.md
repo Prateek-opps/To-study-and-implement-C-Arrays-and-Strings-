@@ -4,7 +4,7 @@ Prateek Sinha
 
 ENTC A3
 
-# Array Operations in C++
+# A)Array Operations in C++
 
 This document provides a comprehensive overview of five C++ programs that demonstrate fundamental array operations. Each section includes the theory behind the program, the algorithm used, sample output, and a conclusion summarizing its purpose and behavior.
 
@@ -131,7 +131,7 @@ The average of elements of array are: 0
 This program highlights the importance of initializing variables and computing dependent values in the correct order. The average is incorrectly calculated due to premature evaluation.
 
 ---
-# String Operations in C++
+# B)String Operations in C++
 
 This document describes multiple C++ programs that demonstrate various operations on strings, including input/output, reversing a string, checking for a palindrome, and concatenating names.
 
